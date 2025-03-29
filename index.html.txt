@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stardust &amp; Circuits: My Engineering Odyssey</title>
+</head>
+<body>
+    <a name="top"></a>  
+    <h1>My Basic Information</h1>
+  <p><strong>ALT SCHOOL ID:</strong> ALT/SOE/025/0259</p> 
+<h2>Biography</h2>
+  <p>Hi,am Agbo Favour,a creative tech enthusiast with a passion for problem solving. Rooted in diverse experiences,i channel both logic and passion into my engineering journey. </p>
+  <h2>Why I Joined the Program</h2>
+   <p>I joined the program to channel my passion for innovation into creating engineering breakthroughs that shape our future.</p>
+<h2>My Goals for the School of Engineering Program</h2>
+<p>My goal for the School of Engineering is to innovate and transform ideas into groundbreaking solutions.</p>
+<p><a href="#top">Back to Top</a></p>
+</body>
+</html>
+
+
+
+
+
+
