@@ -1,0 +1,1 @@
+"This repository hosts 'TechNova: A Digital Dream'—my HTML profile for the School of Engineering program. It features my basic info, ALT SCHOOL ID, a brief bio, reasons for joining, and my goals, all crafted in pure HTML with smooth navigation." 
